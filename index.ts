@@ -1,4 +1,5 @@
-const fud = require("./list.json");
+const fs = require("fs");
+const fud = JSON.parse(fs.readFileSync("./list.json"));
 
 fud.entres.forEach(( cur )=>{
     const random_side = getRandomSide( fud.sides );

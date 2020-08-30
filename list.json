@@ -1,13 +1,19 @@
 {
     "entres": [
         {
-            "title": "chinese style beef"
+            "title": "chinese style beef",
+            "blocklist":[
+                "mac and cheese"
+            ]
         },
         {
             "title": "lamb"
         },
         {
-            "title": "fried chicken strips"
+            "title": "fried chicken strips",
+            "blocklist":[
+                "rice"
+            ]
         },
         {
             "title": "chicken thighs "
@@ -16,19 +22,26 @@
             "title": "steak"
         },
         {
-            "title": "lamb"
-        },
-        {
             "title": "mac and cheese "
         },
         {
-            "title": "dumplings (breakfast sausage)"
+            "title": "dumplings (breakfast sausage)",
+            // maybe veggies too 
+            "allow":[
+                "rice"
+            ]
         },
         {
-            "title": "pizza"
+            "title": "pizza",
+            "allow":[
+                // "_veggie _or_ nothing"
+            ]
         },
         {
-            "title": "spaghetti"
+            "title": "spaghetti",
+            "allow":[
+                // "_veggie _or_ nothing"
+            ]
         },
         {
             "title": "breakfast (pancakes, eggs, bacon, spinach) "
@@ -46,7 +59,8 @@
             "title": "hamburger helper (ground beef)"
         },
         {
-            "title": "beef tips and rice"
+            "title": "beef tips and rice",
+            "side_needed":false
         }
     ],
     "sides": [
@@ -54,10 +68,10 @@
         "potatos",
         "sweet pepers",
         "salad",
-"carrots",
-"rice",
-"mac and cheese",
-"soup",
+        "carrots",
+        "rice",
+        "mac and cheese",
+        "soup",
         "fewer green beans"
     ]
 }
