@@ -1,0 +1,40 @@
+"// chinese style beef"
+
+"// lamb"
+
+"// fried chicken strips"
+
+"// chicken thighs "
+
+"// steak"
+
+"// brunch"
+
+"// lamb"
+
+"// mac and cheese "
+
+"\\ dumplings (breakfast sausage)"
+
+"\\ pizza"
+
+"\\ spaghetti"
+
+"\\ breakfast (pancakes, eggs, bacon, spinach) "
+
+"\\ pork"
+
+"\\ burgers"
+
+"hamburger helper (ground beef)"
+]
+
+[
+"beef tips and rice ",
+
+    "brocoli",
+
+    "potatos",
+
+    "fewer green beans ",
+]
