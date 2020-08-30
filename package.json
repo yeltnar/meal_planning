@@ -1,0 +1,25 @@
+{
+  "name": "meal_planning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeltnar/meal_planning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeltnar/meal_planning/issues"
+  },
+  "homepage": "https://github.com/yeltnar/meal_planning#readme"
+}

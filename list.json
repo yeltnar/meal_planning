@@ -1,26 +1,59 @@
 {
-    "entre": [
-        "chinese style beef",
-        "lamb",
-        "fried chicken strips",
-        "chicken thighs ",
-        "steak",
-        "brunch",
-        "lamb",
-        "mac and cheese ",
-        "dumplings (breakfast sausage)",
-        "pizza",
-        "spaghetti",
-        "breakfast (pancakes, eggs, bacon, spinach) ",
-        "pork",
-        "burgers",
-        "steak tacos (flank tacos)",
-        "hamburger helper (ground beef)"
+    "entres": [
+        {
+            "title": "chinese style beef"
+        },
+        {
+            "title": "lamb"
+        },
+        {
+            "title": "fried chicken strips"
+        },
+        {
+            "title": "chicken thighs "
+        },
+        {
+            "title": "steak"
+        },
+        {
+            "title": "lamb"
+        },
+        {
+            "title": "mac and cheese "
+        },
+        {
+            "title": "dumplings (breakfast sausage)"
+        },
+        {
+            "title": "pizza"
+        },
+        {
+            "title": "spaghetti"
+        },
+        {
+            "title": "breakfast (pancakes, eggs, bacon, spinach) "
+        },
+        {
+            "title": "pork"
+        },
+        {
+            "title": "burgers"
+        },
+        {
+            "title": "steak tacos (flank tacos)"
+        },
+        {
+            "title": "hamburger helper (ground beef)"
+        },
+        {
+            "title": "beef tips and rice"
+        }
     ],
     "sides": [
-        "beef tips and rice ",
         "brocoli",
         "potatos",
-        "fewer green beans "
+        "sweet pepers",
+        "salad",
+        "fewer green beans"
     ]
 }
